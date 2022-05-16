@@ -2,6 +2,10 @@
 
 Currently IT engineering student  :sparkling_heart:
 
+:computer:		:two_hearts:
+I'm a passionate technology & geek stuff, looking to learn more.
+	:two_hearts: :computer:
+
 You can follow me in the next sites/platforms 	:blush:
 
 -	:sparkles: [Youtube channel](https://youtube.com/c/DianaCorona)
