@@ -10,7 +10,7 @@
 </pre>
 <hr>
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 💻 Software and Tools
 
 <table>
   <tbody>
