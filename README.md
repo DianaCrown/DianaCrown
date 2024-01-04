@@ -17,7 +17,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
-        <img height="64px" src="[https://cdn.svgporn.com/logos/html-5.svg](https://commons.wikimedia.org/wiki/File:Python.svg)">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
         <span>𝗖𝗦𝗦𝟯</span><br><br><br>
